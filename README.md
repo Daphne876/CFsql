@@ -30,3 +30,7 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 - Language
 - Staff
 - Store
+
+# Tableau - Breif Visual Summary
+https://public.tableau.com/app/profile/daphne.yaghobi/viz/RockbusterStealthData-BreifVisualSummary/Story1?publish=yes 
+
